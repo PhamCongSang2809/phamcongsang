@@ -1,0 +1,289 @@
+* {
+ margin: 0;
+ padding: 0;
+ border: 0;
+ font: inherit;
+ font-size: 100%;
+ vertical-align: baseline;
+}
+body {
+ line-height: 1;
+ color: black;
+ background: white;
+}
+a {
+ color: inherit;
+ text-decoration: none;
+}
+ol, ul {
+ list-style: none;
+}
+h1, h2, h3, h4, h5, h6 {
+ font-weight: bold;
+ margin-top: 0;
+ margin-bottom: 0;
+}
+html {
+ box-sizing: border-box;
+}
+*,*:after,*:before {
+ box-sizing: inherit;
+}
+body {
+ color: #ffffff;
+ font-family: Roboto, sans-serif;
+ font-size: 16px;
+ font-style: normal;
+ font-weight: normal;
+ letter-spacing: 0;
+ text-decoration: none;
+}
+body {
+ float: none;
+ height: auto;
+ margin: 0 auto;
+ position: relative;
+ width: 720px;
+}
+.background {
+ height: 720px;
+ position: relative;
+ width: 720px;
+ background: #ffffff;
+}
+.rectangle-29-copy {
+ left: 50%;
+ position: absolute;
+ top: 146px;
+ width: 337px;
+ margin-left: 23px;
+}
+.call-for-an-appointment {
+ left: 50%;
+ position: absolute;
+ top: 624px;
+ width: 330px;
+ margin-left: -335px;
+}
+.text {
+ float: left;
+ margin: 34px 29px 0 0;
+ color: #07507a;
+ font-family: FontAwesome5Free-Solid, serif;
+ font-size: 2.360834em;
+
+}
+.text-2 {
+ float: left;
+ color: #222222;
+ font-family: Montserrat, sans-serif;
+ font-size: 1.291667em;
+
+ font-weight: 400;
+}
+.services {
+ left: 50%;
+ position: absolute;
+ top: 283px;
+ width: 409px;
+ margin-left: -360px;
+}
+.health-screening {
+ min-height: 105px;
+ padding: 6px 10px 9px 24px;
+ position: relative;
+ border-radius: 0 52.52px 52.52px 0;
+ background: linear-gradient(90deg, rgba(9,72,116,1) 0%, rgba(11,140,168,1) 100%);
+}
+.col-3 {
+ float: left;
+ margin: 20px 0 0;
+ position: relative;
+ width: 208px;
+}
+.text-3 {
+ font-family: 'Roboto Slab', serif;
+ font-size: 1.333333em;
+
+ font-weight: bold;
+}
+.text-4 {
+ margin: 9px 0 0;
+ width: 208px;
+ font-size: 0.583333em;
+
+ font-weight: 300;
+ line-height: 1.286174em;
+
+}
+.ellipse-1-holder {
+ float: right;
+ margin: 0 auto;
+ padding: 31px 0 17px;
+ position: relative;
+ width: 90px;
+ border-radius: 50%/44.91px;
+ background: #ffffff;
+ color: #07507a;
+ font-family: FontAwesome5Free-Solid, serif;
+ font-size: 2.91667em;
+
+ text-align: center;
+}
+.emergency-service {
+ margin: 9px 0 0;
+ min-height: 105px;
+ padding: 8px 10px 7px 24px;
+ position: relative;
+ border-radius: 0 52.52px 52.52px 0;
+ background: linear-gradient(90deg, rgba(9,72,116,1) 0%, rgba(11,140,168,1) 100%);
+}
+.col-2 {
+ float: left;
+ margin: 13px 0 0;
+ position: relative;
+ width: 208px;
+}
+.text-6 {
+ margin: 0 0 0 1px;
+ font-family: 'Roboto Slab', serif;
+ font-size: 1.333333em;
+
+ font-weight: bold;
+}
+.text-7 {
+ margin: 10px -1px 0 0;
+ font-size: 0.583333em;
+
+ font-weight: 300;
+ line-height: 1.286174em;
+
+}
+.ellipse-1-copy-holder {
+ float: right;
+ margin: 0 auto;
+ padding: 27px 0 21px;
+ position: relative;
+ width: 90px;
+ border-radius: 50%/44.91px;
+ background: #ffffff;
+ color: #07507a;
+ font-family: FontAwesome5Free-Solid, serif;
+ font-size: 2.916665em;
+
+ text-align: center;
+}
+.lab-test {
+ margin: 9px 0 0;
+ min-height: 105px;
+ padding: 8px 10px 7px 22px;
+ position: relative;
+ border-radius: 0 52.52px 52.52px 0;
+ background: linear-gradient(90deg, rgba(9,72,116,1) 0%, rgba(11,140,168,1) 100%);
+}
+.col {
+ float: left;
+ margin: 12px 0 0;
+ position: relative;
+ width: 208px;
+}
+.text-9 {
+ font-family: 'Roboto Slab', serif;
+ font-size: 1.333333em;
+
+ font-weight: bold;
+}
+.text-10 {
+ margin: 10px 0 0;
+ width: 208px;
+ font-size: 0.583333em;
+
+ font-weight: 300;
+ line-height: 1.286174em;
+
+}
+.ellipse-1-copy-2-holder {
+ float: right;
+ margin: 0 auto;
+ padding: 29px 0 19px;
+ position: relative;
+ width: 90px;
+ border-radius: 50%/44.91px;
+ background: #ffffff;
+ color: #07507a;
+ font-family: FontAwesome5Free-Solid, serif;
+ font-size: 2.916665em;
+
+ text-align: center;
+}
+.your-health-is-our-priority {
+ left: 50%;
+ position: absolute;
+ top: 113px;
+ width: 330px;
+ margin-left: -336px;
+}
+.text-12 {
+ color: #0099be;
+ font-family: 'Roboto Slab', serif;
+ font-size: 2.936639em;
+
+ font-weight: bold;
+ line-height: 0.978041em;
+
+}
+.text-13 {
+ margin: 14px 0 0;
+ color: #191919;
+ font-size: 0.916667em;
+
+ font-weight: 300;
+ line-height: 1.454215em;
+
+}
+.dedicated-doctor-working-round-the-clock {
+ left: 50%;
+ min-height: 146px;
+ padding: 44px 12px 46px 26px;
+ position: absolute;
+ top: 0;
+ width: 337px;
+ background: #07517b;
+ margin-left: 23px;
+}
+.text-14 {
+ font-family: 'Roboto Slab', serif;
+ font-size: 1.437066em;
+
+ font-weight: bold;
+ line-height: 1.276384em;
+
+}
+.double-click-here {
+ left: 50%;
+ position: absolute;
+ top: 36px;
+ margin-left: -335px;
+}
+.text-style-2 {
+ line-height: 3.03508em;
+
+}
+.color07517b {
+ color: #07517b;
+}
+.text-style {
+ display: block;
+ line-height: 1.5em;
+
+ margin-bottom: 0;
+}
+.text-style-3 {
+ color: #07517b;
+ font-family: Montserrat, sans-serif;
+ font-size: 1.523547em;
+
+ font-weight: 900;
+ line-height: 1.139101em;
+
+}
